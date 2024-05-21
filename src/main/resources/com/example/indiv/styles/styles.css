@@ -1,0 +1,34 @@
+.link-component {
+    -fx-background-color: lightgray;
+    -fx-padding: 10px;
+}
+
+.link-component .name-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.link-component .link-label {
+    -fx-text-fill: blue;
+    -fx-text-decoration: underline;
+    -fx-cursor: hand;
+    -fx-padding: 10px;
+}
+
+.link-component .category-label {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-color: darkgray;
+    -fx-background-color: lightblue;
+}
+
+.description-label {
+    -fx-font-style: italic;
+    -fx-font-size: 12px;
+    -fx-padding: 10px;
+}
+
